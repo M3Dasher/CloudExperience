@@ -1,0 +1,258 @@
+C:\Users\Xander Taylor\source\repos\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xander Taylor\source\repos\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.AssemblyInfoInputs.cache
+C:\Users\Xander Taylor\source\repos\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.AssemblyInfo.cs
+C:\Users\Xander Taylor\source\repos\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.csproj.CoreCompileInputs.cache
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\schoolhouse problem.deps.json
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\schoolhouse problem.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\schoolhouse problem.pdb
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\AlmostEngine.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\AlmostEngine.Shared.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\com.unity.multiplayer-hlapi.Runtime.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\MTM101BaldAPI.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\NavMeshComponents.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Rewired_Core.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Rewired_Windows.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\System.Configuration.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\System.Diagnostics.StackTrace.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\System.Globalization.Extensions.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\System.Xml.XPath.XDocument.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UModelerCommon.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.Analytics.DataPrivacy.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.ProGrids.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ProfilerModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TextCoreModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UIElementsNativeModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UNETModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\bin\Debug\netstandard2.1\MTM101BaldAPI.xml
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.csproj.AssemblyReference.cache
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.AssemblyInfoInputs.cache
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.AssemblyInfo.cs
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.csproj.CoreCompileInputs.cache
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\obj\Debug\netstandard2.1\schoolho.7888EA71.Up2Date
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.dll
+C:\Users\Xander Taylor\Downloads\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.pdb
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\schoolhouse problem.deps.json
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\schoolhouse problem.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\schoolhouse problem.pdb
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\0Harmony.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\AlmostEngine.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\AlmostEngine.Shared.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.Harmony.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.Preloader.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\com.unity.multiplayer-hlapi.Runtime.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\HarmonyXInterop.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Cecil.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Cecil.Mdb.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Cecil.Pdb.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Cecil.Rocks.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Mono.Security.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\MonoMod.Utils.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\MTM101BaldAPI.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\NavMeshComponents.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Rewired_Core.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Rewired_Windows.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\System.Configuration.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\System.Diagnostics.StackTrace.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\System.EnterpriseServices.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\System.Globalization.Extensions.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\System.ServiceModel.Internals.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\System.Xml.XPath.XDocument.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UModelerCommon.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.Analytics.DataPrivacy.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.ProGrids.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\Unity.Timeline.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AccessibilityModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AIModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AndroidJNIModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AnimationModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ARModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.AudioModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ClothModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ClusterInputModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ClusterRendererModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.CrashReportingModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.DirectorModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.DSPGraphModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.GameCenterModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.GIModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.GridModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.HotReloadModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ImageConversionModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.IMGUIModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.InputLegacyModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.InputModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.JSONSerializeModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.LocalizationModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ParticleSystemModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.PerformanceReportingModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.PhysicsModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ProfilerModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.ScreenCaptureModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SharedInternalsModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SpatialTracking.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SpriteMaskModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SpriteShapeModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.StreamingModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SubstanceModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.SubsystemsModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TerrainModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TextCoreModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TextRenderingModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TilemapModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.TLSModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UIElementsModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UIElementsNativeModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UIModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UmbraModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UNETModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityConnectModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityCurlModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VehiclesModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VFXModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VideoModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VirtualTexturingModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.VRModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.WindModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\UnityEngine.XRModule.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\0Harmony.xml
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.xml
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.Harmony.xml
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\BepInEx.Preloader.xml
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\MonoMod.RuntimeDetour.xml
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\MonoMod.Utils.xml
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\bin\Debug\netstandard2.1\MTM101BaldAPI.xml
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.csproj.AssemblyReference.cache
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.AssemblyInfo.cs
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\obj\Debug\netstandard2.1\schoolho.7888EA71.Up2Date
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.dll
+C:\Users\W10\Desktop\sidequests to do before lap minus\schoolhouse problem\obj\Debug\netstandard2.1\schoolhouse problem.pdb
